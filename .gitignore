@@ -1,0 +1,28 @@
+
+# Ignore all environment files (API keys)
+.env
+.env.*
+!.env.example
+
+# Ignore all Python virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated FAISS indexes
+faiss_index/
+**/faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db

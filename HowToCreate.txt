@@ -1,0 +1,9 @@
+create environment python 
+After venv created
+Create requirements.txt
+Run all the needed requirements in one go
+Create an API in google
+Create .env  to put API
+
+in this website you can create your api key
+https://aistudio.google.com/app/api-keys
